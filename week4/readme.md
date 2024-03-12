@@ -28,14 +28,6 @@
 | 體系別  | 名目尺度(定性) / category  |
 
 
-  </tr>
-  <tr>
-    <td>名目尺度(定性) / category</td>
-    <td>名目尺度(定性) / category</td>
-    <td>名目尺度(定性) / category</td>
-    <td>名目尺度(定性) / category</td>
-    <td>次序尺度(定性) / category</td>
 
-  </tr>
-</table>
+
 
