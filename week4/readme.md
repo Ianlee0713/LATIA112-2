@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
+    <th>欄位名稱</th>
+    <th>資料尺度/類型</th>
+
   </tr>
   <tr>
     <td>Data 1</td>
