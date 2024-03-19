@@ -7,3 +7,4 @@
 
 
 作業一  https://colab.research.google.com/drive/1Xqzi2qP80f8e4y78BAegVyea_6JSAOXk#scrollTo=TUGr8mLmjdVk
+如果連結不行也有傳在week2
