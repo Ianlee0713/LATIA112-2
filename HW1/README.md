@@ -1,10 +1,6 @@
 學習分析工具(大數據教育學程)
 廖執善 博士 Tom Liao, 業界講師 Ryan Chung
 
-contact: benfeng99@gmail.com
-my blog:https://breeze0305.github.io/about/
-Discord:breeze0305
-
 HW1
 作業一.ipynb 為程式檔案，使用112_ab111_S.csv 作為統計的資料集，預設使用TaipeiSansTCBeta字體，使用matplotlib繪製圖表。
 
