@@ -2,7 +2,7 @@
 廖執善 博士 Tom Liao, 業界講師 Ryan Chung
 
 HW1
-作業一.ipynb 為程式檔案，使用112_ab111_S.csv 作為統計的資料集，預設使用TaipeiSansTCBeta字體，使用matplotlib繪製圖表。
+作業一.ipynb 為程式檔案，使用112_ab111_C.csv 作為統計的資料集，預設使用TaipeiSansTCBeta字體，使用matplotlib繪製圖表。
 
 Question:
 問題一:外國生前五名的學校？
