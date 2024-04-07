@@ -2,7 +2,7 @@
 廖執善 博士 Tom Liao, 業界講師 Ryan Chung
 
 HW1
-[作業一.ipynb](https://github.com/Ianlee0713/LATIA112-2/blob/main/HW1/%E4%BD%9C%E6%A5%AD%E4%B8%80.ipynb) 為程式檔案，使用112_ab111_C.csv 作為統計的資料集，預設使用TaipeiSansTCBeta字體，使用matplotlib繪製圖表。
+[作業一.ipynb](https://github.com/Ianlee0713/LATIA112-2/blob/main/HW1/%E4%BD%9C%E6%A5%AD%E4%B8%80.ipynb) 為程式檔案，使用[112_ab111_C.csv](https://github.com/Ianlee0713/LATIA112-2/blob/main/HW1/112_ab111_C.csv) 作為統計的資料集，預設使用TaipeiSansTCBeta字體，使用matplotlib繪製圖表。
 
 Question:
 
