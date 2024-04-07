@@ -6,5 +6,5 @@
 每週二下午 1:20~4:10, 	臺師大教育學院402教室
 
 
-作業一  https://colab.research.google.com/drive/1Xqzi2qP80f8e4y78BAegVyea_6JSAOXk#scrollTo=TUGr8mLmjdVk
-如果連結不行也有傳在week2
+[作業一](https://github.com/Ianlee0713/LATIA112-2/tree/main/HW1)  
+
