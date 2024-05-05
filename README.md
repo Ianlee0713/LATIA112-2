@@ -7,4 +7,4 @@
 
 
 [作業一](https://github.com/Ianlee0713/LATIA112-2/tree/main/HW1)  
-
+[作業二](https://github.com/Ianlee0713/LATIA112-2/tree/main/HW2)
